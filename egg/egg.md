@@ -1,6 +1,5 @@
-
 <center>
-  <img src="./ugotme.webp" width="100%">
+  <img src="./ugotme.png" width="100%">
 </center>
 
 <center>
